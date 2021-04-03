@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e79900d26d207654dbc46146bd1792db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Astar: {fileID: 100000, guid: 756d9b17cc698564eba83382d8447061, type: 2}
+  - Acandy: {fileID: 100000, guid: e9420f984ac15ea4394430f4ff3f82e8, type: 2}
+  - Ahat: {fileID: 100000, guid: 1577f5092791d764b816ab1dfef257b4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
